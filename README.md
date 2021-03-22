@@ -9,7 +9,7 @@ Task at hand : Analyzing Amazon reviews written by members of the paid Amazon Vi
 
 Non Vine Reviews        |  Vine Reviews
 :-------------------------:|:-------------------------:
-![](Analysis/Non_Vine_Reviews.png)  |  ![](Analysis/Vine_Reviews.png)
+![](Resources/Non_Vine_Reviews.png)  |  ![](Resources/Vine_Reviews.png)
 
 * How many total reviews were there for a review that was or wasn’t written as part of the Vine program?
 
